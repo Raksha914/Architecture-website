@@ -4,7 +4,7 @@
 ![27](https://github.com/user-attachments/assets/3fb7d94e-2668-4796-94e7-2835b265b90b)
 
 
-RESPONSIVE
+**RESPONSIVE**
 
 ![18](https://github.com/user-attachments/assets/9a8699b0-d119-4b6b-9525-d1398944113f)
 ![19](https://github.com/user-attachments/assets/ba4f68c5-b487-4cd6-b8c3-30c8278357ab)
