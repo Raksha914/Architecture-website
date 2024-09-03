@@ -12,7 +12,3 @@ RESPONSIVE
 ![21](https://github.com/user-attachments/assets/1c75f37f-5730-42a6-b83b-c45ec9535cf6)
 ![22](https://github.com/user-attachments/assets/0e27efcf-9d0d-41c0-aba2-d4f1cf91d87e)
 ![23](https://github.com/user-attachments/assets/44e4b5f4-2840-4181-b228-93cf6926d3a7)
-![24](https://github.com/user-attachments/assets/959a8fcb-0c9d-40b3-88dd-a3a59a516459)
-![25](https://github.com/user-attachments/assets/402fcc02-1887-488d-8ca7-026d04c9998c)
-![26](https://github.com/user-attachments/assets/3270d686-38fa-4173-b10e-8fb08dd2fe0d)
-![27](https://github.com/user-attachments/assets/74d51235-6dfc-4b22-b9a0-3058380187da)
